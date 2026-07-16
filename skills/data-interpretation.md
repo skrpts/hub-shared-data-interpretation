@@ -2,17 +2,17 @@
 type: skill
 id: data-interpretation
 title: Data Interpretation
-description: "Analyses research findings and identifies patterns, trends, and contradictions"
+description: "Analyzes research findings and identifies patterns, trends, and contradictions"
 tags: [Production, Data, Research]
 ---
 
 ## Capability
 
-Analyses a collection of research findings to identify patterns, trends, contradictions, and gaps. Synthesises results across multiple studies to build a coherent narrative about the state of knowledge on a topic.
+Analyzes a collection of research findings to identify patterns, trends, contradictions, and gaps. Synthesizes results across multiple studies to build a coherent narrative about the state of knowledge on a topic.
 
 ## When to Use
 
-- Synthesising findings from multiple papers in a literature review
+- Synthesizing findings from multiple papers in a literature review
 - Identifying areas of consensus and disagreement in a research field
 - Spotting methodological trends or shifts over time
 - Preparing the synthesis section of a review paper

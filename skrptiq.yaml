@@ -2,8 +2,8 @@
 id: "b1dd5e17-d06b-4ef5-a9ba-37c019eb448a"
 name: "data-interpretation"
 display_name: "Data Interpretation"
-description: "Analyses research findings and identifies patterns, trends, and contradictions"
-version: "1.0.2"
+description: "Analyzes research findings and identifies patterns, trends, and contradictions"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T13:56:44.276Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/data-interpretation/security"
